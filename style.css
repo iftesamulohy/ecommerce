@@ -19,3 +19,41 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1{
+    background-color: orange;
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 15px;
+}
+.cat2{
+background-color: orchid;
+padding: 10px 30px;
+    color: #fff;
+    border-radius: 15px;
+}
+.cat3{
+    background-color: blue;
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 15px;
+}
+.categories img{
+    width: 120px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border-top: none;
+}
+#contactus{
+    height: 300px;
+}
+#contactus h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
